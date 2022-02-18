@@ -15,7 +15,7 @@
 
       <div v-if="currentRoute === '/'">
         <nuxt-link to="/">
-            <p class="font-semibold text-gray-900 md:text-lg text-base"><span class="text-red-900">Al</span>jazeer<span class="text-red-900">i</span></p>
+            <p class="font-semibold text-gray-900 md:text-lg text-base"><span class="text-green-500">Al</span>jazeer<span class="text-green-500">i</span></p>
         </nuxt-link>
       </div>
 
