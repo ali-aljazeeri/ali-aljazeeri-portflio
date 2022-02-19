@@ -1,0 +1,27 @@
+{
+  "savur": {
+    "name": "savur",
+    "title": "Savur",
+    "coverImage": "savur-cover.PNG",
+    "developedUsing": "Vue.js, Tailwind Css"
+  },
+  "sector-dhy": {
+    "name": "sector-dhy",
+    "title": "Sector D7Y - Marshals Event Management ",
+    "coverImage": "sector-cover.PNG",
+    "developedUsing": "Laravel, Vue.js, Tailwind Css"
+  },
+  "enft": {
+    "name": "enft",
+    "title": "ENFT -  Digital NFTs Auctioning Marketplace",
+    "coverImage": "ENFT-cover.PNG",
+    "developedUsing": "Solidity, Blockchain, Laravel, Vue.js, Tailwind Css"
+  },
+  "portfolio": {
+    "name": "portfolio",
+    "title": "Personal Portfolio",
+    "coverImage": "portfolio-cover.PNG",
+    "developedUsing": "Nuxt js, Tailwind Css"
+  }
+
+}
