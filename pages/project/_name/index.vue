@@ -69,7 +69,7 @@ export default {
       this.project = this.projects[n]
       if (this.project === undefined)
       {
-        this.$router.push('/')
+        this.$router.push('/pageNotFound')
       }
     }
   }
