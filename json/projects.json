@@ -3,25 +3,144 @@
     "name": "savur",
     "title": "Savur",
     "coverImage": "savur-cover.PNG",
-    "developedUsing": "Vue.js, Tailwind Css"
+    "developedUsing": "Vue.js, Tailwind Css",
+    "logo": "savur-logo.png",
+    "year": "2021",
+    "description": [
+      {
+        "title": "<span class='text-red-800'>Disclaimer</span>",
+        "text": "<span class='text-red-800'>This project was built under Savour Services W.L.L , and it may be changed at the moment.</span>"
+      },
+      {
+        "title": "Developed using",
+        "text": "Vue.js, Tailwind Css"
+      },
+      {
+        "title": "About Savur",
+        "text": "Savur is a company founded by Salman Alarayedth, Mohammed Al Fardan, Mohsen Dashti in the year 2020 and is a mobile application for offers (in-store and delivery)."
+      },
+      {
+        "title": "Aim",
+        "text": "The aim of this project is to create a website fo Savur customers to view al the available offers in the application , also to encourage more users to download the application."
+      }
+    ],
+    "images": [
+      {
+        "title": "Home page",
+        "image": "savur-cover.PNG"
+      },
+      {
+        "title": "Offers page",
+        "image": "savur-offers.PNG"
+      }
+    ]
   },
   "sector-dhy": {
     "name": "sector-dhy",
     "title": "Sector D7Y - Marshals Event Management ",
     "coverImage": "sector-cover.PNG",
-    "developedUsing": "Laravel, Vue.js, Tailwind Css"
+    "developedUsing": "Laravel, Vue.js, Tailwind Css",
+    "logo": "d7y-logo.png",
+    "year": "2022",
+    "description": [
+      {
+        "title": "Developed using",
+        "text": "Laravel, Vue.js, Tailwind Css"
+      },
+      {
+        "title": "Aim",
+        "text": "The aim of this project is to create a systematic way of letting the marshals to register in an event, instead of the typical WhatsApp list. Also, to share the concept and the importance of marshals."
+      }
+    ],
+    "images": [
+      {
+        "title": "Home page",
+        "image": "sector-cover.PNG"
+      },
+      {
+        "title": "All Events Page",
+        "text": "with the ability to edit all the event",
+        "image": "dhy-events.PNG"
+      },
+      {
+        "title": "Event Page",
+        "text": "with the ability to register in the event",
+        "image": "dhy-event.PNG"
+      },
+      {
+        "title": "All Members Page",
+        "text": "with the ability to edit all marshals",
+        "image": "dhy-members.PNG"
+      },
+      {
+        "title": "Add new Member Page",
+        "image": "dhy-add-new-marshal.PNG"
+      }
+    ]
   },
   "enft": {
     "name": "enft",
     "title": "ENFT -  Digital NFTs Auctioning Marketplace",
     "coverImage": "ENFT-cover.PNG",
-    "developedUsing": "Solidity, Blockchain, Laravel, Vue.js, Tailwind Css"
+    "developedUsing": "Solidity, Blockchain, Laravel, Vue.js, Tailwind Css",
+    "logo": "enft-logo.PNG",
+    "year": "2021",
+    "description": [
+      {
+        "title": "Developed using",
+        "text": "Solidity, Blockchain, Laravel, Vue.js, Tailwind Css"
+      },
+      {
+        "title": "Aim",
+        "text": "Part of my BSc in Computer Science study's in senior  project. Therefore me and my group choose new / trending topic \"NFTs\" and created ENFT. With the goal to provide artists in the region a secure decentralised way to auction their art as NFTs to potential buyers. This is achieved with a decentralized application (DApp) on the Ethereum blockchain facilitated with smart contracts."
+      }
+    ],
+    "images": [
+      {
+        "title": "Home Page",
+        "image": "ENFT-cover.PNG"
+      },
+      {
+        "title": "Search Page",
+        "image": "enft-search.PNG"
+      },
+      {
+        "title": "NFT Page",
+        "image": "enft-nft.PNG"
+      },
+      {
+        "title": "Create NFT Page",
+        "image": "enft-create-nft.PNG"
+      },
+      {
+        "title": "User Bids Page",
+        "image": "enft-bids.PNG"
+      }
+    ]
   },
   "portfolio": {
     "name": "portfolio",
     "title": "Personal Portfolio",
     "coverImage": "portfolio-cover.PNG",
-    "developedUsing": "Nuxt js, Tailwind Css"
-  }
+    "developedUsing": "Nuxt js, Tailwind Css",
+    "logo": "portfolio-logo.PNG",
+    "year": "2022",
+    "description": [
+      {
+        "title": "Developed using",
+        "text": "Nuxt js, Tailwind Css"
+      },
+      {
+        "title": "Aim",
+        "text": "To show and not just tell my abilities and skills \uD83D\uDD25\uD83D\uDD25."
+      }
+    ],
+    "images": [
+      {
+        "title": "Home Page",
+        "image": "portfolio-cover.PNG"
+      },
 
+    ]
+  }
 }

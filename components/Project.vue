@@ -7,7 +7,7 @@
       >
     </div>
     <!--general info-->
-    <div class="flex flex-col justify-between flex-1 mt-8">
+    <div class="flex flex-col justify-between flex-1 mt-3">
       <div>
         <!--title-->
         <p class="text-gray-900 font-bold md:text-xl text-lg text-left w-full">{{ project.title }}</p>
