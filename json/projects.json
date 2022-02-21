@@ -42,6 +42,7 @@
     "developedUsing": "Laravel, Vue.js, Tailwind Css",
     "logo": "d7y-logo.png",
     "year": "2022",
+    "demo": "sector-dhy-demo.herokuapp.com/",
     "description": [
       {
         "title": "Developed using",
