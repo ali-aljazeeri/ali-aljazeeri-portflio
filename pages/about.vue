@@ -4,7 +4,7 @@
       <!--about me-->
       <div class="text-lg font-bold text-gray-900 text-center mt-5">
         My name is Ali Isa Aljazeeri 👋<br/>
-        A computer science student , always looking for a challenge and something new to learn 🤓<br/>
+        A computer science graduate 🎓 , always looking for a challenge and something new to learn 🤓<br/>
         I will always try to volunteer and make a difference 🌎<br/>
         Video games lover and Final Fantasy 14 addict 🎮<br/>
         Formula 1 fan 🏎️<br/>
