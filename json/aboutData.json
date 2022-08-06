@@ -17,6 +17,14 @@
   ],
   "work": [
     {
+      "logo": "GIG-Logo-RGB-BahrainTakaful.png",
+      "link": "gigtakaful.bh/",
+      "title": "Information Technology Trainee",
+      "date": "(Jun 2022 - Present)",
+      "organization": "Takaful International",
+      "work": ["Automate procedures","Monitor website and application errors and address them","Assist other professionals","Monitor the company backup system","Create reports"]
+    },
+    {
       "logo": "savur-logo.png",
       "link": "www.savur.co/",
       "title": "Web Developer Intern",
