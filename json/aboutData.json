@@ -19,8 +19,16 @@
     {
       "logo": "GIG-Logo-RGB-BahrainTakaful.png",
       "link": "gigtakaful.bh/",
+      "title": "Information Technology Assistant",
+      "date": "(Sep 2022 - Present)",
+      "organization": "Takaful International",
+      "work": ["Automate procedures","Monitor website and application errors and address them","Assist other professionals","Monitor the company backup system","Create reports"]
+    },
+    {
+      "logo": "GIG-Logo-RGB-BahrainTakaful.png",
+      "link": "gigtakaful.bh/",
       "title": "Information Technology Trainee",
-      "date": "(Jun 2022 - Present)",
+      "date": "(Jun 2022 - Sep 2022)",
       "organization": "Takaful International",
       "work": ["Automate procedures","Monitor website and application errors and address them","Assist other professionals","Monitor the company backup system","Create reports"]
     },
